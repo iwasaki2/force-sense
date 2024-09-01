@@ -59,3 +59,20 @@ IN1 = HIGH, IN2 = LOW → モーターは正回転
 逆回転：
 IN1 = LOW, IN2 = HIGH → モーターは逆回転
 
+
+
+
+
+https://qiita.com/yuuki122606/items/8540e5e2b173c06a658a
+
+https://www.marutsu.co.jp/contents/shop/marutsu/datasheet/ta7291.pdf
+
+https://ht-deko.com/arduino/esp-wroom-02.html
+
+https://www.kyohritsu.jp/eclib/OTHER/DATASHEET/ta7291p.pdf
+
+<img width="549" alt="スクリーンショット 2024-07-02 10 47 58" src="https://github.com/idesemi-weekly/ivrc2024-chord/assets/155946795/9fd25050-62b3-42ef-a892-964d62eb0ef3">
+
+TA7291p・端子説明<img width="899" alt="スクリーンショット 2024-08-06 1 49 26" src="https://github.com/user-attachments/assets/1f1c30cd-e0be-4047-8379-8cb62a75aa0e">
+
+ESP・WROOM02<img width="1113" alt="スクリーンショット 2024-08-06 1 51 30" src="https://github.com/user-attachments/assets/f73e4dcd-5266-4f6f-82da-6ca909c32e1b">
